@@ -44,7 +44,8 @@
                         <th>Longitude</th>
                     </tr>
                 <?php
-                    $csv = array_map('str_getcsv', file("https://plymouth.thedata.place/dataset/772613d4-21ee-406e-a694-4a1dab88e268/resource/cd162ad1-d7d5-42a9-b1ab-0edbcd697f1e/download/air-quality-by-pm2.5-score-blf.org.uk.csv"));
+                    //$csv = array_map('str_getcsv', file("https://plymouth.thedata.place/dataset/772613d4-21ee-406e-a694-4a1dab88e268/resource/cd162ad1-d7d5-42a9-b1ab-0edbcd697f1e/download/air-quality-by-pm2.5-score-blf.org.uk.csv"));
+                    $csv = array_map('str_getcsv', file("resources/air-quality.csv"));
                     array_walk($csv, function(&$a) use ($csv) {
                         $a = array_combine($csv[0], $a);
                     });

@@ -1,0 +1,74 @@
+Name,Address,Post Code,Town,Type,PM2_5,Exceed_10,Latitude,Longitude
+West Hoe Surgery,"West Hoe Surgery, 2 Cliff Road, Plymouth, Devon",PL1 3BP,St Peter and the Waterfront,GP Practice,8.87,FALSE,50.36483369,-4.150356164
+Adelaide Street Surgery,"20 Adelaide Street, Stonehouse, Plymouth, Devon",PL1 3JF,St Peter and the Waterfront,GP Practice,10.32,TRUE,50.37056193,-4.155762335
+Devonport Health Centre,"Damerel Close, Devonport, Plymouth, Devon",PL1 4JZ,Devonport,GP Practice,10.71,TRUE,50.37000443,-4.167845365
+Armada Surgery,"Armada Surg, 28 Oxford Pl, Western Approach, Plymouth, Devon",PL1 5AJ,St Peter and the Waterfront,GP Practice,10.8,TRUE,50.3746935,-4.144895015
+North Road West Med.ctr.,"North Road West Med.ctr., 167 North Road West, Plymouth",PL1 5BZ,St Peter and the Waterfront,GP Practice,11.45,TRUE,50.37606234,-4.146264801
+Rame Group Practice,"Penntorr Health, Trevol Road, Torpoint",PL11 2TB,Torpoint West,GP Practice,8.05,FALSE,50.37551956,-4.224890353
+Port View Surgery,"Port View Surgery, Higher Port View, Saltash, Cornwall",PL12 4BU,Saltash East,GP Practice,9.19,FALSE,50.40737481,-4.214686801
+St Barnabas Hospital,"Higher Port View, Saltash, Cornwall",PL12 4BU,Saltash East,Hospital,9.19,FALSE,50.40737481,-4.214686801
+Quay Lane Surgery,"Quay Lane Surgery, Old Quay Lane, St.germans, Saltash, Cornwall",PL12 5LH,St Germans and Landulph,GP Practice,7.5,FALSE,50.39535187,-4.305698726
+Saltash Health Centre,"Saltash Health Centre, Callington Road, Saltash, Cornwall",PL12 6DL,Saltash East,GP Practice,8.83,FALSE,50.40972993,-4.220891093
+Old Bridge Surgery,"Old Bridge Surgery, Station Road, East Looe, Cornwall",PL13 1HA,Looe East,GP Practice,8.37,FALSE,50.35681312,-4.455308034
+Oak Tree Surgery,"Oak Tree Surgery, Clemo Road, Liskeard, Cornwall",PL14 3XA,Liskeard North,GP Practice,7.25,FALSE,50.46072834,-4.451923298
+Liskeard Community Hospital,"Clemo Road, Liskeard, Cornwall",PL14 3XD,Liskeard North,Hospital,7.25,FALSE,50.4615847,-4.45098125
+Rosedean Surgery,"Rosedean Surgery, 8 Dean Street, Liskeard, Cornwall",PL14 4AQ,Liskeard East,GP Practice,9.64,FALSE,50.45368504,-4.465985546
+Pensilva Health Centre,"The Health Centre, School Road, Pensilva, Liskeard, Cornwall",PL14 5RP,Lynher,GP Practice,7.25,FALSE,50.50374558,-4.41036082
+Launceston Medical Centre,"Launceston Medical Centre, Landlake Road, Launceston, Cornwall",PL15 9HH,Launceston South,GP Practice,7.63,FALSE,50.62766809,-4.360006829
+Tamar Valley Health,"Tamar Valley Health, The Health Ctr, Haye Road, Callington, Cornwall",PL17 7AW,Callington,GP Practice,7.98,FALSE,50.50347638,-4.320073202
+Abbey Surgery,"Abbey Surgery, 28 Plymouth Road, Tavistock, Devon",PL19 8BU,Tavistock North,GP Practice,7.49,FALSE,50.54690399,-4.150401315
+Tavistock Community Hospital,", Spring Hill, Tavistock, Devon",PL19 8LD,Tavistock North,Hospital,7.49,FALSE,50.54717808,-4.153575716
+Tavyside Health Centre,"Abby Rise, Tavistock, Devon",PL19 9FD,Tavistock South West,GP Practice,7.4,FALSE,50.54579846,-4.145975254
+St.levan Surgery,"St.levan Surgery, 350 St.levan Road, Keyham, Plymouth, Devon",PL2 1JR,Devonport,GP Practice,13.17,TRUE,50.38392145,-4.177328357
+St Neots Surgery,"St Neots Surgery, 1 North Prospect Road, Plymouth, Devon",PL2 3HY,Ham,GP Practice,13.28,TRUE,50.38797863,-4.160899457
+Peverell Park Surgery,"Peverell Park Surgery, The Stables, Pounds House, Oatland Road, Peverell, Plymouth, Devon",PL2 3PR,Peverell,GP Practice,11.3,TRUE,50.39367158,-4.147819946
+Yelverton Surgery,"The Surgery, Westella Road, Yelverton, Devon",PL20 6AS,Buckland Monachorum,GP Practice,6.79,FALSE,50.49134407,-4.082823987
+Modbury Health Centre,"The Health Centre, Poundwell Meadow, Modbury, Ivybridge, Devon",PL21 0QL,Charterlands,GP Practice,6.75,FALSE,50.34843158,-3.888164819
+Highlands Health Centre,"Highlands Health Centre, Fore Street, Ivybridge, Devon",PL21 9AE,Ivybridge West,GP Practice,8.59,FALSE,50.38921952,-3.921677817
+Lee Mill Hospital,", Beech Road",PL21 9HL,Ermington & Ugborough,Hospital,6.93,FALSE,50.39035816,-3.961749417
+Lostwithiel Surgery,"Lostwithiel Surgery, North Street, Lostwithiel, Cornwall",PL22 0EF,Lostwithiel,GP Practice,8.53,FALSE,50.40790436,-4.668723069
+Fowey River Practice,"Fowey River Practice, The Surgery,rawlings Lane, Fowey, Cornwall",PL23 1DT,Fowey and Tywardreath,GP Practice,7.13,FALSE,50.3379291,-4.635353263
+Fowey Hospital,"Park Road, Fowey, Cornwall",PL23 1EE,Fowey and Tywardreath,Hospital,6.94,FALSE,50.33849794,-4.639221682
+Middleway Surgery,"Middleway Surgery, St.blazey, Par, Cornwall",PL24 2JL,St Blazey,GP Practice,8.65,FALSE,50.35643901,-4.713216827
+St Austell Health Group,"St Austell Health Group, 1 Wheal Northey, St Austell, Cornwall",PL25 3EF,St Austell Bethel,GP Practice,10.97,TRUE,50.34430931,-4.760373763
+St Austell Community Hospital,"Porthpean Road, St. Austell, Cornwall",PL26 6AD,Mevagissey,Hospital,8.06,FALSE,50.32787747,-4.772362659
+Mevagissey Surgery,"The Surgery, River Street, Mevagissey, St Austell, Cornwall",PL26 6UE,Mevagissey,GP Practice,8.51,FALSE,50.27058583,-4.788554511
+Brannel Surgery,"Brannel Surgery, 58 Rectory Rd, St Stephen, St Austell, Cornwall",PL26 7RL,St Stephen-In-Brannel,GP Practice,7.59,FALSE,50.34013887,-4.890806345
+Clays Practice,"The Clays Practice, Victoria Road, Roche, St. Austell, Cornwall",PL26 8JF,Roche,GP Practice,8.81,FALSE,50.40923149,-4.83310515
+Wadebridge & Camel Estuary Practice,"Wadebridge And Camel, Estuary Practice, Brooklyn, Wadebridge,cornwall",PL27 7BS,Wadebridge West,GP Practice,8.08,FALSE,50.51481559,-4.835729326
+Port Isaac Surgery,"The Surgery, Hillson Close, Port Issac, Cornwall",PL29 3TR,St Minver and St Endellion,GP Practice,6.99,FALSE,50.58980825,-4.824593833
+Stoke Surgery,"Stoke Surgery, Belmont Villas,stoke, Plymouth, Devon",PL3 4DP,Stoke,GP Practice,11.9,TRUE,50.37900074,-4.166778701
+Mannamead Surgery,"The Mannamead Surgery, 22 Eggbuckland Road, Mannamead, Plymouth, Devon",PL3 5HE,Compton,GP Practice,11.43,TRUE,50.38927135,-4.129838172
+Stillmoor House Medical Practice,"Stillmoor House Med Pract, Bell Lane, Bodmin, Cornwall",PL31 2JJ,Bodmin St Leonard,GP Practice,8.87,FALSE,50.47192886,-4.720037967
+Carnewater Practice,"Carnewater Practice, The Hlth Ctr, Dennison Rd, Bodmin, Cornwall",PL31 2LB,Bodmin St Leonard,GP Practice,9.61,FALSE,50.47285835,-4.722600202
+Bodmin Nhs Treatment Centre,", Boundary Road, Bodmin, Cornwall",PL31 2QT,Bodmin St Mary's,Hospital,8.27,FALSE,50.4675383,-4.741151081
+Medical Centre Camelford (Dr Nash),"The Medical Centre, Churchfield, Camelford, Cornwall",PL32 9YT,Camelford,GP Practice,8.82,FALSE,50.62402734,-4.676789356
+Medical Centre Camelford (Dr Garrod),"The Medical Centre, Churchfield, Camelford, Cornwall",PL32 9YT,Camelford,GP Practice,8.82,FALSE,50.62402734,-4.676789356
+Bottreaux Surgery,"Bottreaux Surgery, Boscastle, Cornwall",PL35 0BG,Tintagel,GP Practice,7.77,FALSE,50.68400051,-4.691769723
+Wycliffe Surgery,"8 Cattedown Road, Cattedown, Plymouth, Devon",PL4 0BZ,Sutton and Mount Gould,GP Practice,14,TRUE,50.36864913,-4.122853438
+Park View Surgery,"34 Ford Park Road, Mutley, Plymouth, Devon",PL4 6NX,Drake,GP Practice,13.41,TRUE,50.38289436,-4.139145991
+Lisson Grove Medical Ctr.,"Lisson Grove Medical Ctr., 3-5 Lisson Grove, Mutley, Plymouth, Devon",PL4 7DL,Compton,GP Practice,13.41,TRUE,50.38251174,-4.131574939
+Mount Gould Local Care Centre,", 200 Mount Gould Road, Mount Gould, Plymouth, Devon",PL4 7PY,Sutton and Mount Gould,Hospital,12.97,TRUE,50.37883659,-4.116613107
+Friary House Surgery,"Friary House Surgery, 2a Beaumont Road, St.judes, Plymouth, Devon",PL4 9BH,St Peter and the Waterfront,GP Practice,11.83,TRUE,50.3726601,-4.128292368
+Beaumont Villa Surgery,"Beaumont Villa Surgery, 23 Beaumont Rd, St Judes, Plymouth, Devon",PL4 9BL,Sutton and Mount Gould,GP Practice,11.83,TRUE,50.37319779,-4.127908582
+Ocean Health Centre,"Ocean Health Centre, Stirling Road, St Budeaux, Plymouth, Devon",PL5 1PL,St Budeaux,GP Practice,10.96,TRUE,50.40494649,-4.188551674
+Ernesettle Primary Care Centre,"Ernesettle Pcc, Ernesettle Green, Plymouth, Devon",PL5 2ST,Honicknowle,GP Practice,8.59,FALSE,50.42046819,-4.176709635
+Crownhill Surgery,"Crownhill Surgery, 103 Crownhill Road, Plymouth, Devon",PL5 3BP,Eggbuckland,GP Practice,10.43,TRUE,50.41058227,-4.139942688
+Knowle House Surgery,"Knowle House Surgery, 4 Meavy Way, Crownhill, Plymouth, Devon",PL5 3JB,Eggbuckland,GP Practice,10.43,TRUE,50.40862999,-4.13409825
+Oakside Surgery,"Honicknowle Green Med Ctr, Guy Miles Way,honicknowle, Plymouth, Devon",PL5 3PY,Honicknowle,GP Practice,11.48,TRUE,50.41125645,-4.159425097
+Budshead Medical Practice,"Budshead Medical Practice, 433 Budshead Rd,whitleigh, Plymouth, Devon",PL5 4DU,Budshead,GP Practice,10.31,TRUE,50.41744296,-4.150288912
+Peninsula Nhs Treatment Centre,"20 Brest Road, Derriford, Plymouth, Devon",PL6 5XP,Moor View,Hospital,8.6,FALSE,50.41238386,-4.117685954
+Southway Surgery,"33 Rockfield Avenue, Southway, Plymouth",PL6 6DX,Southway,GP Practice,9.04,FALSE,50.42767775,-4.133236961
+Roborough Surgery,"Roborough Surgery, 1 Eastcote Cl, Roborough, Plymouth, Devon",PL6 6PH,Southway,GP Practice,8.6,FALSE,50.42746976,-4.115078441
+"Nuffield Health, Plymouth Hospital",", Derriford Road, Plymouth, Devon",PL6 8BG,Moor View,Hospital,8.6,FALSE,50.41866659,-4.114460944
+Derriford Hospital,"Derriford Road, Crownhill, Plymouth, Devon",PL6 8DH,Moor View,Hospital,8.6,FALSE,50.41671996,-4.113684476
+Royal Eye Infirmary,"Derriford Road, Crownhill, Plymouth, Devon",PL6 8DH,Moor View,Hospital,8.6,FALSE,50.41671996,-4.113684476
+Estover Surgery,"Estover Surg.estover H.c., Leypark Walk,estover, Plymouth",PL6 8UE,Moor View,GP Practice,8.51,FALSE,50.41127114,-4.095200456
+Elm Surgery,"Elm Surgery, 123 Leypark Walk, Estover, Plymouth, Devon",PL6 8UF,Moor View,GP Practice,8.51,FALSE,50.40837955,-4.095945482
+Pathfields Practice,"Pathfields Practice, Plympton Hc, Mudgeway, Plympton, Plymouth",PL7 1AD,Plympton Erle,GP Practice,9.43,FALSE,50.38622698,-4.052568239
+Beacon Medical Group,"Mudge Way, Plympton, Plymouth, Devon",PL7 1AD,Plympton Erle,GP Practice,9.43,FALSE,50.38622698,-4.052568239
+Yealm Medical Centre,"Yealm Medical Centre, Market St, Yealmpton, Plymouth, Devon",PL8 2EA,Newton & Yealmpton,GP Practice,7.14,FALSE,50.34856928,-3.997767851
+Wembury Surgery,"The Surgery, 51 Hawthorn Dr, Wembury, Plymouth, Devon",PL9 0BE,Wembury & Brixton,GP Practice,6.49,FALSE,50.32185957,-4.072566301
+Church View Surgery,"Church View Surgery, 30 Holland Road,plymstock, Plymouth, Devon",PL9 9BN,Plymstock Radford,GP Practice,8.98,FALSE,50.35682345,-4.085983006
+Barton Surgery,"Barton, Horn Lane, Plymstock, Plymouth, Devon",PL9 9BR,Plymstock Radford,GP Practice,9.11,FALSE,50.35908535,-4.088247383
+Dean Cross Surgery,"Dean Cross Surgery, 21 Radford Park Road, Plymstock, Plymouth, Devon",PL9 9DL,Plymstock Radford,GP Practice,9.11,FALSE,50.35893945,-4.095355177
