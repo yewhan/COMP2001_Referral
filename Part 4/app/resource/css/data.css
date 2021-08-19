@@ -1,6 +1,8 @@
 #table {
-    width: 100%;
+    /*width: 100%;*/
     margin-top: 1em;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 td, th {
@@ -14,7 +16,7 @@ td, th {
 #table th {
     padding-top: .5em;
     padding-bottom: .5em;
-    text-align:left;
+    text-align:center;
     background-color: #333333;
     color: white;
 }

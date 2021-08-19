@@ -5,11 +5,14 @@
 }
 
 body {
-    margin: 0;
     font-family: Arial, Helvetica, sans-serif;
     align-content: center;
     display: flex;
     flex-flow: column;
+    /*max-width: 500px;*/
+    margin: auto;
+    background-color: #ddd;
+    text-align: center;
 }
 
 /* Style the top navigation bar */
@@ -36,6 +39,6 @@ body {
 
 /* Style the content */
 .main {
-    background-color: #ddd;
+    /*background-color: #ddd;*/
     padding: 10px;
 }
