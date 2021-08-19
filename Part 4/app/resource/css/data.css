@@ -20,3 +20,8 @@ td, th {
     background-color: #333333;
     color: white;
 }
+
+#map {
+    margin-left: auto;
+    margin-right: auto;
+}
