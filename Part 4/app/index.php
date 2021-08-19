@@ -5,8 +5,8 @@
     <title>Plymouth Air Quality</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width-device-width, initial-scale=1">
-    <link rel="stylesheet" href="resources/css/index.css" />
-    <link rel="stylesheet" href="resources/css/w3schools_template.css" />
+    <link rel="stylesheet" href="resource/css/index.css" />
+    <link rel="stylesheet" href="resource/css/w3schools_template.css" />
 </head>
 
 <body>

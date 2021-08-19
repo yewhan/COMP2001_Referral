@@ -4,10 +4,10 @@
     <title>Data - Plymouth Air Quality</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width-device-width, initial-scale=1">
-    <link rel="stylesheet" href="resources/css/data.css" />
+    <link rel="stylesheet" href="resource/css/data.css" />
     <link href="https://api.mapbox.com/mapbox-gl-js/v2.4.1/mapbox-gl.css" rel="stylesheet">
     <script src="https://api.mapbox.com/mapbox-gl-js/v2.4.1/mapbox-gl.js"></script>
-    <link rel="stylesheet" href="resources/css/w3schools_template.css" />
+    <link rel="stylesheet" href="resource/css/w3schools_template.css" />
 </head>
 
 <body>
@@ -45,7 +45,7 @@
                     </tr>
                 <?php
                     //$csv = array_map('str_getcsv', file("https://plymouth.thedata.place/dataset/772613d4-21ee-406e-a694-4a1dab88e268/resource/cd162ad1-d7d5-42a9-b1ab-0edbcd697f1e/download/air-quality-by-pm2.5-score-blf.org.uk.csv"));
-                    $csv = array_map('str_getcsv', file("resources/air-quality.csv"));
+                    $csv = array_map('str_getcsv', file("resource/air-quality.csv"));
                     array_walk($csv, function(&$a) use ($csv) {
                         $a = array_combine($csv[0], $a);
                     });
